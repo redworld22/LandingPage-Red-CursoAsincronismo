@@ -4,7 +4,7 @@
   "description": "Landing Page del proyecto del Curso de Asincronismo con JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/redworld22/LandingPage-Red-CursoAsincronismo/issues"
   },
-  "homepage": "https://github.com/redworld22/LandingPage-Red-CursoAsincronismo#readme"
+  "homepage": "https://github.com/redworld22/LandingPage-Red-CursoAsincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
