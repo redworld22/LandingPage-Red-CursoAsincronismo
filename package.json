@@ -1,0 +1,20 @@
+{
+  "name": "landingpage-red-cursoasincronismo",
+  "version": "1.0.0",
+  "description": "Landing Page del proyecto del Curso de Asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redworld22/LandingPage-Red-CursoAsincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redworld22/LandingPage-Red-CursoAsincronismo/issues"
+  },
+  "homepage": "https://github.com/redworld22/LandingPage-Red-CursoAsincronismo#readme"
+}
